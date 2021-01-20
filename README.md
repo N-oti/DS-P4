@@ -17,7 +17,7 @@ This project written in pyathon and followig libraries need to be installed:
 5. math
 6. matplotlib
 7. seborn
-8. pickle
+
 
 
 ### Datasets:
@@ -52,7 +52,7 @@ value - (dict of strings) - either an offer id or transaction amount depending o
 
 
 ### Result
-All my finding is available in the following blog: https://n-oti.medium.com/starbucks-capstone-challenge-e678da6b0302.
+All my finding is available in the following blog: https://n-oti.medium.com/starbucks-capstone-challenge-e678da6b0302
 
 ### License & Acknowledgements :
 
