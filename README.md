@@ -52,6 +52,12 @@ value - (dict of strings) - either an offer id or transaction amount depending o
 
 
 ### Result
+1. There are 9956 successful informational offer and 25986 successful (bogo/discount) offer .
+2. Best perform offer are : 5a8bc65990b245e5a138643cd4eb9837 followed by 3f207df678b143eea3cee63160fa8bed .
+3. Worst perform offer is #0b1e1539f2cc45b7b9fa7c272da2e1d7 , company may review this offer .
+4. Male has more successful offer than female that might be because number of male is more than Female.
+5. I found that random forest model has the best training data accuracy which is (0.832) and F1 score which is (0.851), the test data accuracy is 0.779 and F1 score is 0.785. The random forest model didn't overfit the training data.
+
 All my finding is available in the following blog: https://n-oti.medium.com/starbucks-capstone-challenge-e678da6b0302
 
 ### License & Acknowledgements :
